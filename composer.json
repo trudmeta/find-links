@@ -1,0 +1,13 @@
+{
+    "name": "wp-links",
+    "require": {},
+    "require-dev": {
+        "codeception/codeception": "^4.1",
+        "lucatume/wp-browser": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "WpLinks\\": "WpLinks/"
+        }
+    }
+}
